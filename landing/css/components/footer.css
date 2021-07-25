@@ -1,0 +1,18 @@
+.footer {
+    padding: 60px;
+    text-align: center;
+    margin: 0 auto;
+    background-size: cover;
+    margin-top: 40px;
+}
+
+.footer a {
+    font-size: 30px;
+    color: #1EDD88;
+    justify-content: space-between;
+    margin: 0 5px;
+}
+
+.footer p {
+    color: #6B6C6C;
+}
